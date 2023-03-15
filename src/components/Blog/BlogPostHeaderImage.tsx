@@ -1,4 +1,6 @@
-import { Image } from "react-datocms";
+// import { Image } from "react-datocms";
+import Image from 'next/image'
+import avatar from '../../assets/avatar.png'
 // types
 import { ResponsiveImage } from "models/datoCMS";
 
@@ -13,8 +15,9 @@ const BlogPostHeaderImage = ({ imageData }: Props) => {
       <Image
         layout="responsive"
         objectFit="cover"
-        pictureClassName="w-full h-full object-cover rounded-xl"
-        data={imageData}
+        className="w-full h-full object-cover rounded-xl"
+        // data={imageData}
+        src={imageData}
       />
     </div>
   );

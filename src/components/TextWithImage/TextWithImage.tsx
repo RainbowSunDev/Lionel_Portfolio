@@ -1,4 +1,6 @@
-import { Image } from "react-datocms";
+// import { Image } from "react-datocms";
+import Image from "next/image";
+import avatar from "../../assets/avatar.png"
 import ReactMarkdown from "react-markdown";
 // types
 import { ResponsiveImage } from "models/datoCMS";
@@ -28,7 +30,7 @@ const TextWithImage = ({ image, text }: TextWithImageProps) => {
         </BackgroundPatternWrapper>
 
         <div className="relative lg:flex lg:items-center">
-          <div className="relative mb-10 lg:mb-0 lg:mr-10">
+          <div className=" mb-10 lg:mb-0 lg:mr-10">
             <svg
               className="absolute top-0 left-0 transform lg:-translate-x-8 -translate-y-12 md:-translate-y-18 lg:-translate-y-20 h-24 w-24 lg:h-36 lg:w-36 text-primary opacity-50"
               stroke="currentColor"
@@ -47,15 +49,16 @@ const TextWithImage = ({ image, text }: TextWithImageProps) => {
               </div>
             </div>
           </div>
-          <div className="flex justify-center lg:flex-shrink-0 h-52 w-52 rounded-full lg:h-64 lg:w-64 mx-auto overflow-hidden">
-            {/* eslint-disable-next-line jsx-a11y/alt-text */}
+          <div className="justify-center lg:flex-shrink-0 h-52 w-52 rounded-full lg:h-64 lg:w-64 mx-auto overflow-hidden">
             <Image
-              objectFit="cover"
-              layout="responsive"
-              pictureClassName="h-52 w-52 rounded-full lg:h-64 lg:w-64"
-              data={image.responsiveImage}
-            />
-          </div>
+                objectFit="cover"
+                layout="responsive"
+                // pictureClassName="h-52 w-52 rounded-full lg:h-64 lg:w-64"
+                // data={image.responsiveImage}
+                src={avatar}
+              />
+            </div>
+         
         </div>
       </div>
     </div>

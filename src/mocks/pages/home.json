@@ -52,7 +52,7 @@
     "seo": [
       {
         "tag": "title",
-        "content": "Senior Frontend Developer | Patrick Obermeier",
+        "content": "Senior Frontend Developer | Lionel Jaussi",
         "attributes": null
       },
       {
@@ -70,7 +70,7 @@
         "content": null,
         "attributes": {
           "name": "description",
-          "content": "Patrick Obermeier is a Senior React Developer from Vienna, Austria. Creating web apps and websites using latest technologies like React & the MERN-Stack with passion!"
+          "content": "Lionel Jaussi is a Senior React Developer from Vienna, Austria. Creating web apps and websites using latest technologies like React & the MERN-Stack with passion!"
         }
       },
       {
@@ -78,7 +78,7 @@
         "content": null,
         "attributes": {
           "property": "og:description",
-          "content": "Patrick Obermeier is a Senior React Developer from Vienna, Austria. Creating web apps and websites using latest technologies like React & the MERN-Stack with passion!"
+          "content": "Lionel Jaussi is a Senior React Developer from Vienna, Austria. Creating web apps and websites using latest technologies like React & the MERN-Stack with passion!"
         }
       },
       {
@@ -86,7 +86,7 @@
         "content": null,
         "attributes": {
           "name": "twitter:description",
-          "content": "Patrick Obermeier is a Senior React Developer from Vienna, Austria. Creating web apps and websites using latest technologies like React & the MERN-Stack with passion!"
+          "content": "Lionel Jaussi is a Senior React Developer from Vienna, Austria. Creating web apps and websites using latest technologies like React & the MERN-Stack with passion!"
         }
       },
       {
@@ -130,7 +130,7 @@
         "content": null,
         "attributes": {
           "property": "og:site_name",
-          "content": "Patrick Obermeier | Senior Frontend Developer"
+          "content": "Lionel Jaussi | Senior Frontend Developer"
         }
       },
       {
@@ -213,8 +213,8 @@
       {
         "__typename": "HeroRecord",
         "id": "94032829",
-        "heading": "Creating <span class=\"text-primary\">fresh & fast web apps and sites</span> with passion!",
-        "subHeading": "Senior Frontend Developer & Online-Marketing Expert from Vienna, Austria ",
+        "heading": "Creating highly <span class=\"text-primary\">awesome & fast & SEO-Friendly web apps and sites</span> with passion!",
+        "subHeading": "Senior Frontend Developer & Ecommerce Expert from Basel, Switzerland ",
         "backgroundImage": {
           "responsiveImage": {
             "srcSet": "https://www.datocms-assets.com/60761/1641844787-bg.png?dpr=0.25 415w,https://www.datocms-assets.com/60761/1641844787-bg.png?dpr=0.5 831w,https://www.datocms-assets.com/60761/1641844787-bg.png?dpr=0.75 1246w,https://www.datocms-assets.com/60761/1641844787-bg.png 1662w",
@@ -224,8 +224,8 @@
             "width": 1662,
             "height": 1054,
             "aspectRatio": 1.5768500948766604,
-            "alt": "Patrick Obermeier",
-            "title": "Patrick Obermeier",
+            "alt": "Lionel Jaussi",
+            "title": "Lionel Jaussi",
             "base64": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoICAgLCgoLDhgVDhUVDhcVFhESIx0ZGBYfIhUaHysjGikoHSEWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OFxAQHDsoIhw7NS8vLzs7LzsvLzUvLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIAA8AGAMBIgACEQEDEQH/xAAXAAADAQAAAAAAAAAAAAAAAAAABAYF/8QAHRAAAQQDAQEAAAAAAAAAAAAAAQACAyEEBRJBEf/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwD/xAAXEQEBAQEAAAAAAAAAAAAAAAARAAIB/9oADAMBAAIRAxEAPwCQ1X0eJ3OmMcRpMYWG1ppN5OvZJHaxUelFt2HcxbyaQtyTURMeSAEIkjq//9k="
           },
           "url": "https://www.datocms-assets.com/60761/1641844787-bg.png"
@@ -239,7 +239,7 @@
                 "ctaType": "primary",
                 "isExternalLink": false,
                 "linkUrl": "#portfolio",
-                "title": "View My Work"
+                "title": "View2 My Work"
               },
               {
                 "id": "94032827",
@@ -263,18 +263,18 @@
           {
             "__typename": "TextWithImageRecord",
             "id": "94033111",
-            "text": "I'm an experienced front-end developer with a solid background in everything related to online-marketing on top. It is my passion to build slick & well optimized websites and web apps.\n\nI’m very much into gaming and learning to work with new technologies, always improving myself to stay on top of my field. Further, I like nature and enjoy doing some trekking from time to time. Finally, I'm a good person to have a beer with.",
+            "text": "I'm a front-end developer experieced in everything related to ecommerce on top more than 9 years. It is my main skill to build SEO-friendly & well optimized websites and web apps by NextJS & TailwindCSS & TypeScript.\n\nWorking with the worldwide digital agencies gives me ability to make different kind of sites (from small personal sites to online WooCommerce/e-commerce stores, corporate, real estate, travel, news, sport, medical, educational, learning management systems (LMS))\n\nI’m very much into learning to work with Go which is one of the most high-level programming languages, always trying to improve myself to stay on top of my field. Further, I give the importance to keeping punctuality and credit in my business. Finally I usually like literature and a person to be humourous in life .",
             "image": {
               "responsiveImage": {
-                "srcSet": "https://www.datocms-assets.com/60761/1641478172-profile.png?dpr=0.25 115w,https://www.datocms-assets.com/60761/1641478172-profile.png?dpr=0.5 230w,https://www.datocms-assets.com/60761/1641478172-profile.png?dpr=0.75 345w,https://www.datocms-assets.com/60761/1641478172-profile.png 460w",
-                "webpSrcSet": "https://www.datocms-assets.com/60761/1641478172-profile.png?dpr=0.25&fm=webp 115w,https://www.datocms-assets.com/60761/1641478172-profile.png?dpr=0.5&fm=webp 230w,https://www.datocms-assets.com/60761/1641478172-profile.png?dpr=0.75&fm=webp 345w,https://www.datocms-assets.com/60761/1641478172-profile.png?fm=webp 460w",
+                "srcSet": "https://www.datocms-assets.com/60761/1641478profile172-.png?dpr=0.25 115w,https://www.datocms-assets.com/60761/1641478172-profile1.png?dpr=0.5 230w,https://www.datocms-assets.com/60761/1641478172-profile1.png?dpr=0.75 345w,https://www.datocms-assets.com/60761/1641478172-profile1.png 460w",
+                "webpSrcSet": "https://www.datocms-assets.com/60761/1641478172-1.png?dpr=0.25&fm=webp 115w,https://www.datocms-assets.com/60761/1641478172-profile1.png?dpr=0.5&fm=webp 230w,https://www.datocms-assets.com/60761/1641478172-profile1.png?dpr=0.75&fm=webp 345w,https://www.datocms-assets.com/60761/1641478172-profile1.png?fm=webp 460w",
                 "sizes": "(max-width: 460px) 100vw, 460px",
-                "src": "https://www.datocms-assets.com/60761/1641478172-profile.png",
+                "src": "http://localhost:3000/home/1.png",
                 "width": 460,
                 "height": 460,
                 "aspectRatio": 1,
-                "alt": "Patrick Obermeier",
-                "title": "Patrick Obermeier",
+                "alt": "Lionel Jaussi",
+                "title": "Lionel Jaussi",
                 "base64": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoQEAgVDg0JDhUODQ0NFREODQ0YFx8lGCIVFhUmHysjGh0oHRUiJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OHBAQHC8lIig7Oy8vLy8vLy8vLy8vOzsvLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIABgAGAMBIgACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAABQYEAf/EAB4QAAICAgMBAQAAAAAAAAAAAAABAgMEBSExQXER/8QAFwEBAQEBAAAAAAAAAAAAAAAABAUDAv/EABwRAAICAgMAAAAAAAAAAAAAAAECAAMREgQTIf/aAAwDAQACEQMRAD8Ard1anSyf18k8h/TTt879qfIp1WSpXd+hC+BGUU7ITK9TSgjgvsy1GHYGi+iEdcNiS24ymqnyZNHe5S79ADggayhxSesxxmZTjX2AAKqUayRyWIsn/9k="
               },
               "url": "https://www.datocms-assets.com/60761/1641478172-profile.png"
@@ -1063,7 +1063,7 @@
       }
     ],
     "footer": {
-      "copyrightText": "Patrick Obermeier. All rights reserved.",
+      "copyrightText": "Lionel Jaussi. All rights reserved.",
       "navigationLinks": [
         { "id": "94064251", "title": "/uses", "isExternalLink": false, "url": "/uses" },
         { "id": "99902435", "title": "Blog", "isExternalLink": false, "url": "/blog" },

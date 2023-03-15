@@ -13,8 +13,8 @@ const mockData = {
       width: 1662,
       height: 1054,
       aspectRatio: 1.5768500948766604,
-      alt: "Patrick Obermeier",
-      title: "Patrick Obermeier",
+      alt: "Lionel Jaussi",
+      title: "Lionel Jaussi",
       base64:
         "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoICAgLCgoLDhgVDhUVDhcVFhESIx0ZGBYfIhUaHysjGikoHSEWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OFxAQHDsoIhw7NS8vLzs7LzsvLzUvLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIAA8AGAMBIgACEQEDEQH/xAAXAAADAQAAAAAAAAAAAAAAAAAABAYF/8QAHRAAAQQDAQEAAAAAAAAAAAAAAQACAyEEBRJBEf/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwD/xAAXEQEBAQEAAAAAAAAAAAAAAAARAAIB/9oADAMBAAIRAxEAPwCQ1X0eJ3OmMcRpMYWG1ppN5OvZJHaxUelFt2HcxbyaQtyTURMeSAEIkjq//9k=",
     },
@@ -29,7 +29,7 @@ const mockData = {
           ctaType: "primary" as const,
           isExternalLink: false,
           linkUrl: "#portfolio",
-          title: "View My Work",
+          title: "View1 My Work",
         },
         {
           id: "94032827",

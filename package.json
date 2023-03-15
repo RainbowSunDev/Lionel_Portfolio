@@ -1,7 +1,7 @@
 {
   "name": "pobermeier-portfolio-v3",
   "version": "1.0.0",
-  "description": "Patrick Obermeier's Personal Portfolio Website build with Next.js, TailwindCSS, GraphQL & Dato CMS.",
+  "description": "Lionel Jaussi's Personal Portfolio Website build with Next.js, TailwindCSS, GraphQL & Dato CMS.",
   "keywords": [
     "react",
     "nextjs",
@@ -14,7 +14,7 @@
     "tailwind",
     "tailwind-css"
   ],
-  "author": "Patrick Obermeier",
+  "author": "Lionel Jaussi",
   "license": "MIT",
   "private": true,
   "scripts": {

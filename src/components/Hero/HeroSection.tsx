@@ -1,4 +1,5 @@
 import { Image } from "react-datocms";
+// import Image from 'next/image'
 import ReactMarkdown from "react-markdown";
 // types
 import { ResponsiveImage } from "models/datoCMS";
@@ -7,7 +8,7 @@ import { CTAContainerProps } from "components/Buttons/CTAContainer";
 import Button from "components/Buttons/Button";
 import BackgroundPatternWrapper from "components/BackgroundPattern/BackgroundPatternWrapper";
 import BackgroundPattern from "components/BackgroundPattern/BackgroundPattern";
-
+import avatar from '../../assets/avatar.png'
 export interface HeroSectionProps {
   /**
    * The main heading
@@ -74,6 +75,7 @@ const HeroSection = ({ heading, subHeading, backgroundImage, callToActions }: He
           objectFit="cover"
           className="absolute inset-0 w-full h-full object-cover lg:rounded-l-full"
           data={backgroundImage.responsiveImage}
+          // src={backgroundImage.responsiveImage}
         />
       </div>
     </section>

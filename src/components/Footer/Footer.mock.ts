@@ -2,7 +2,7 @@
 import { FooterProps } from "./Footer";
 
 const mockData: FooterProps = {
-  copyrightText: "Patrick Obermeier. All rights reserved.",
+  copyrightText: "Lionel Jaussi. All rights reserved.",
   navigationLinks: [
     { id: "94064251", title: "/uses", isExternalLink: false, url: "/uses" },
     { id: "99902435", title: "Blog", isExternalLink: false, url: "/blog" },

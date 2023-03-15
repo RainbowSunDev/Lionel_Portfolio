@@ -1,4 +1,4 @@
-const siteOwnerName = "Patrick Obermeier";
+const siteOwnerName = "Lionel Jaussi";
 
 const config = {
   flags: {

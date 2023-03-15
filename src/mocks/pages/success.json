@@ -50,7 +50,7 @@
   },
   "page": {
     "seo": [
-      { "tag": "title", "content": "Thank you! | Patrick Obermeier", "attributes": null },
+      { "tag": "title", "content": "Thank you! | Lionel Jaussi", "attributes": null },
       {
         "tag": "meta",
         "content": null,
@@ -66,7 +66,7 @@
         "content": null,
         "attributes": {
           "name": "description",
-          "content": "Patrick Obermeier is a Senior React Developer from Vienna, Austria. Creating web apps and websites using latest technologies like React & the MERN-Stack with passion!"
+          "content": "Lionel Jaussi is a Senior React Developer from Vienna, Austria. Creating web apps and websites using latest technologies like React & the MERN-Stack with passion!"
         }
       },
       {
@@ -74,7 +74,7 @@
         "content": null,
         "attributes": {
           "property": "og:description",
-          "content": "Patrick Obermeier is a Senior React Developer from Vienna, Austria. Creating web apps and websites using latest technologies like React & the MERN-Stack with passion!"
+          "content": "Lionel Jaussi is a Senior React Developer from Vienna, Austria. Creating web apps and websites using latest technologies like React & the MERN-Stack with passion!"
         }
       },
       {
@@ -82,7 +82,7 @@
         "content": null,
         "attributes": {
           "name": "twitter:description",
-          "content": "Patrick Obermeier is a Senior React Developer from Vienna, Austria. Creating web apps and websites using latest technologies like React & the MERN-Stack with passion!"
+          "content": "Lionel Jaussi is a Senior React Developer from Vienna, Austria. Creating web apps and websites using latest technologies like React & the MERN-Stack with passion!"
         }
       },
       {
@@ -126,7 +126,7 @@
         "content": null,
         "attributes": {
           "property": "og:site_name",
-          "content": "Patrick Obermeier | Senior Frontend Developer"
+          "content": "Lionel Jaussi | Senior Frontend Developer"
         }
       },
       {
@@ -220,8 +220,8 @@
             "width": 1662,
             "height": 1054,
             "aspectRatio": 1.5768500948766604,
-            "alt": "Patrick Obermeier",
-            "title": "Patrick Obermeier",
+            "alt": "Lionel Jaussi",
+            "title": "Lionel Jaussi",
             "base64": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoICAgLCgoLDhgVDhUVDhcVFhESIx0ZGBYfIhUaHysjGikoHSEWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OFxAQHDsoIhw7NS8vLzs7LzsvLzUvLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIAA8AGAMBIgACEQEDEQH/xAAXAAADAQAAAAAAAAAAAAAAAAAABAYF/8QAHRAAAQQDAQEAAAAAAAAAAAAAAQACAyEEBRJBEf/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwD/xAAXEQEBAQEAAAAAAAAAAAAAAAARAAIB/9oADAMBAAIRAxEAPwCQ1X0eJ3OmMcRpMYWG1ppN5OvZJHaxUelFt2HcxbyaQtyTURMeSAEIkjq//9k="
           },
           "url": "https://www.datocms-assets.com/60761/1641844787-bg.png"
@@ -243,7 +243,7 @@
       }
     ],
     "footer": {
-      "copyrightText": "Patrick Obermeier. All rights reserved.",
+      "copyrightText": "Lionel Jaussi. All rights reserved.",
       "navigationLinks": [
         { "id": "94064251", "title": "/uses", "isExternalLink": false, "url": "/uses" },
         { "id": "99902435", "title": "Blog", "isExternalLink": false, "url": "/blog" },
