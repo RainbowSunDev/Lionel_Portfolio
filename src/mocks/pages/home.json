@@ -162,14 +162,14 @@
         },
         {
           "id": "94031955",
-          "url": "https://www.linkedin.com/in/patrickobermeier/",
+          "url": "https://  ",
           "name": "LinkedIn",
           "reactIconIdentifier": "linkedin",
           "icon": { "url": "https://www.datocms-assets.com/60761/1641478156-icon_linkedin.svg" }
         },
         {
           "id": "94031960",
-          "url": "https://twitter.com/pobermeier87",
+          "url": "https:// ",
           "name": "Twitter",
           "reactIconIdentifier": "twitter",
           "icon": { "url": "https://www.datocms-assets.com/60761/1641478158-icon_twitter.svg" }
@@ -853,7 +853,7 @@
                 "subTitle": "Marketing Website",
                 "description": "An example of a landing page for a reknown social casino brand. A PHP template engine and a headless CMS in the backend help to avoid code duplication and make marketing content editable by anybody. Combined with a focus on best-in-class loading speed optimizations this gives us a cutting edge over any competitor.",
                 "projectType": "professional",
-                "liveLink": "https://lp.gametwist.com/landingpages/",
+                "liveLink": "https:///landingpages/",
                 "repoLink": "",
                 "showcaseImage": {
                   "url": "https://www.datocms-assets.com/60761/1641478239-project_work_lpgametwist.jpg",
@@ -1085,14 +1085,14 @@
         },
         {
           "id": "94031955",
-          "url": "https://www.linkedin.com/in/patrickobermeier/",
+          "url": "https://  ",
           "name": "LinkedIn",
           "reactIconIdentifier": "linkedin",
           "icon": { "url": "https://www.datocms-assets.com/60761/1641478156-icon_linkedin.svg" }
         },
         {
           "id": "94031960",
-          "url": "https://twitter.com/pobermeier87",
+          "url": "https:// ",
           "name": "Twitter",
           "reactIconIdentifier": "twitter",
           "icon": { "url": "https://www.datocms-assets.com/60761/1641478158-icon_twitter.svg" }

@@ -12,14 +12,14 @@ const mockData: NavbarProps = {
     },
     {
       id: "94031955",
-      url: "https://www.linkedin.com/in/patrickobermeier/",
+      url: "https://",
       name: "LinkedIn",
       reactIconIdentifier: "linkedin",
       icon: { url: "https://www.datocms-assets.com/60761/1641478156-icon_linkedin.svg" },
     },
     {
       id: "94031960",
-      url: "https://twitter.com/pobermeier87",
+      url: "https://",
       name: "Twitter",
       reactIconIdentifier: "twitter",
       icon: { url: "https://www.datocms-assets.com/60761/1641478158-icon_twitter.svg" },

@@ -20,12 +20,12 @@ const config = {
     themeColor: "#111827",
   },
   urls: {
-    email: "mailto:office@patrickobermeier.at",
-    fakeEmail: "mailto:contact@patrickobermeier.dev",
-    linkedIn: "https://www.linkedin.com/in/patrickobermeier/",
-    github: "https://github.com/Pobermeier",
-    twitter: "https://twitter.com/pobermeier87",
-    websiteRepo: "https://github.com/Pobermeier/pobermeier-portfolio-v3",
+    // email: "mailto:office@patrickobermeier.at",
+    // fakeEmail: "mailto:contact@patrickobermeier.dev",
+    // linkedIn: "https://  ",
+    // github: "https://github.com/Pobermeier",
+    // twitter: "https:// ",
+    // websiteRepo: "https://github.com/Pobermeier/pobermeier-portfolio-v3",
   },
 };
 
